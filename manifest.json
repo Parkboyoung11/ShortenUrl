@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "9fuy ✪ Access Token",
-  "description": "Get Facebook Access Token",
+  "name": "Shorten Url",
+  "description": "Shorten link with goo.gl",
   "author": "9fury",
   "version": "1.0",
 
@@ -20,8 +20,7 @@
     "storage",
     "contextMenus",
     "webRequest",
-    "webRequestBlocking",
-    "<all_urls>"
+    "webRequestBlocking"
   ],
 
   "browser_action": {
